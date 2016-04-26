@@ -17,6 +17,8 @@ path. Otherwise, do something like: ::
     mkdir -p ~/.vim/{plugin,audio}
     cp audio/* ~/.vim/audio/
     cp plugin/typewriter.vim ~/.vim/plugin/
+    
+If you are using pathogen package manager, just copy the downloaded folder(vim-typewriter) into bundle folder (probably '~/.vim/bundle').
 
 Credits
 -------
